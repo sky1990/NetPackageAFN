@@ -1,2 +1,3 @@
 # NetPackageAFN
-对afn的二次封装
+
+The second package of AFN,which contains the combination of MBProgressHUD
